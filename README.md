@@ -1,0 +1,2 @@
+# account-book
+这是一个简单的个人记账手册，包含使用vue创建的client部分，和使用nest搭建的service部分，使用mysql数据库进行数据存储
