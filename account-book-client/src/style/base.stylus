@@ -1,0 +1,61 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+p,
+blockquote,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+pre,
+fieldset,
+lengend,
+button,
+input,
+textarea,
+th,
+td,
+div,
+span
+    padding 0
+    margin 0
+    box-sizing border-box
+
+fieldset,
+lengend,
+button,
+input,
+textarea,
+a 
+    outline none
+    -webkit-tap-highlight-color transparent
+
+a 
+    color inherit
+    box-sizing border-box
+    text-decoration none
+    cursor pointer
+
+ul 
+    list-style none
+
+
+input::placeholder
+    color #c1c1c1
+
+textarea 
+    resize none
+
+.text-ellipsis 
+    overflow hidden
+    text-overflow ellipsis
+    white-space nowrap
+    max-width 100%
+    display block

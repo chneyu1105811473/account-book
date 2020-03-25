@@ -1,0 +1,1 @@
+{"version":3,"file":"access-forbidden.exception.js","sourceRoot":"","sources":["../../../src/common/exceptions/access-forbidden.exception.ts"],"names":[],"mappings":";;AAAA,2CAA2D;AAG3D,MAAa,eAAgB,SAAQ,sBAAa;IAChD,YAAY,OAAuB,EAAE,MAAM,GAAG,mBAAU,CAAC,SAAS;QAChE,KAAK,CAAC,OAAO,EAAE,MAAM,CAAC,CAAC;IACzB,CAAC;CACF;AAJD,0CAIC"}
